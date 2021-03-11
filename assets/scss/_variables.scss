@@ -1,0 +1,32 @@
+/**
+ * Overriding default typography
+ */
+
+
+ $red: #e64533;
+
+ $green: #4ea29b;
+ 
+ $purple: #2b3280;
+  
+
+// General
+$primary: $green;
+$secondary: $purple;
+// Text
+$headings-color: #282f49;
+$body-color: #000;
+
+//
+// Typography
+//
+
+// Fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Trispace&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
+$font-family-base: "Trispace", sans-serif;
+$headings-font-family: "Merriweather", sans-serif;
