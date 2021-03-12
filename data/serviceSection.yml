@@ -1,26 +1,24 @@
 ---
 enable: true
-topTitle: Nos actions
+topTitle: Notre mission ?
 title: >
   ## Diversifier le monde du numérique
 
-  Nous rêvons d'équipes techniques paritaires. 
+  Nous encourageons toutes les femmes à s'épanouir dans une carrière technique. Et pour y parvenir, nous avons différents outils en place. 
+
 service:
   - content: >
       #### Workshops
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Ateliers autour de la programmation ou de développement personnel. 
     image: images/service/ui-ux.svg
   - content: >
-      #### Ateliers
+      #### Meetups
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Conférences techniques. oskour lorem ipsum
     image: images/service/web.svg
   - content: >
       #### Apéros 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      En pause pendant la crise sanitaire. Remplacés par des cafés virtuels. oskour lorem ipsum
     image: images/service/creative.svg

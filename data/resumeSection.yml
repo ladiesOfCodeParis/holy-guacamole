@@ -1,58 +1,52 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: Actions
 title: >
-  ## My Expertises
+  ## Lorem ipsum
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+  Nous organisons des meetups mais pas que. Nous intervenons également beaucoup dans l'écosystème parisien. 
+tab1Name: Meetups
+tab2Name: Interventions
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Workshop: Créer son propre blog en React + Markdown + Next.js
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Au vu des conditions sanitaires, le workshop s'effectue à distance. 
+
+      > [Inscriptions ici](https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/events/276710368/).
+      
+    time: 17 mars 2021
   - content: >
-      #### Master in Arts
+      #### Workshops Test-Driven-Development
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      A travers différents workshops en petits groupes, Romy Alula nous introduit à l'art du TDD. 
+      
+      > Les inscriptions sont réservées aux membres du Slack, [cliquez ici pour en faire partie](https://forms.gle/xmDBRNckL2KqFFoK8).
+    time: Février à Juin 2021
   - content: >
-      #### Master in Arts
+      #### Gestion des side-projects
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Astuces pour se motiver à finir ses side-projects. 
+      
+      > L'événement est passé mais [le replay est disponible sur Youtube](https://www.youtube.com/watch?v=Wn-tEXo3ijw).
+    time: 9 décembre 2020
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Interventions en collège-lycée
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Nous intervenons en collège lycée pour parler de notre parcours universitaire et de notre métier à vos classes. Si cela vous intéresse, [remplissez ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLScbq5v0rXfYCcBeBTGh8ZruER5ELXQ1w1UzwGZQYR4qC0kjYg/viewform).
+    time: 2021
   - content: >
-      #### Aperture Science 
+      #### Code Week
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Nous avons organisé une initiation à la programmation lors de la Code Week 2018. [Notre bilan de cette édition est disponible par ici](https://medium.com/ladiesofcodeparis/codeweek-2018-le-bilan-ebea53fd6ffd).
+    time: 2018
   - content: >
-      #### ACME Inc. 
+      #### A mon tour de Programmer 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Ladies of Code Paris a contribué à la formation de 12 développeuses en lançant la formation "A mon tour de programmer". [Un retour d'expérience est disponible ici](https://amontourdeprogrammer.fr/).
+    time: 2017
