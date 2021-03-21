@@ -2,9 +2,9 @@
 enable: true
 topTitle: Actions
 title: >
-  ## Lorem ipsum
+  ## Meetups & Interventions 
 
-  Nous organisons des meetups mais pas que. Nous intervenons également beaucoup dans l'écosystème parisien. 
+  Nous organisons des meetups mais pas que. Nous intervenons également beaucoup dans l'écosystème numérique parisien pour parler de nos métiers. 
 tab1Name: Meetups
 tab2Name: Interventions
 tab1Target: education

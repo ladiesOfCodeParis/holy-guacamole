@@ -49,21 +49,6 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="text-light footer__widget_address mb-5">
-                        <h4 class="base-font">Address</h4>
-                        {{ $address := .Site.Params.address }}
-                        <ul class="fa-ul small">
-                            <li class="mb-2"><a class="text-light" href="tel:{{ $address.phone }}"><span class="fa-li"><i
-                                            class="fa fa-phone"></i></span>{{ $address.phone }}</a></li>
-                            <li class="mb-2"><a class="text-light" href="mailto:{{ $address.email }}"><span class="fa-li"><i
-                                            class="fa fa-envelope"></i></span>{{ $address.email }}</a></li>
-                            <li class="mb-2">
-                                <span class="fa-li"><i class="fa fa-map-marker"></i></span>{{ $address.address }}</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
             </div>
             <div class="row footer__footer">
                 <div class="col-lg-6">
@@ -98,5 +83,48 @@
     {{ $formhandler := resources.Get "js/form-handler.js" | minify }}
     <script src="{{ $formhandler.Permalink }}"></script>
     {{ $script := resources.Get "js/script.js" | minify }}
+    <script>
+  // partners slider
+      $(".partners__slider").slick({
+        infinite: true,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        dots: false,
+        arrows: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        responsive: [
+          {
+            breakpoint: 992,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1,
+              infinite: true,
+              dots: true,
+            },
+          },
+        ],
+      });
+    $(".friends__slider").slick({
+        infinite: true,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        dots: false,
+        arrows: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        responsive: [
+          {
+            breakpoint: 992,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1,
+              infinite: true,
+              dots: true,
+            },
+          },
+        ],
+      });
+</script>
     <script src="{{ $script.Permalink }}"></script>
     

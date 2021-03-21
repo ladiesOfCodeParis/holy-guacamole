@@ -4,16 +4,52 @@ topTitle: Partenaires
 title: >
   ## Merci de nous aider à faire rayonner la communauté
 
+friendsTitle: Communautés amies
+friendsSubtitle: >
+  ## Nous soutenons les autres communautés féminines techniques 
+
+friends:
+  - name: Duchess France
+    img: images/partenaires/duchess.png
+    url: https://www.meetup.com/fr-FR/Duchess-France-Meetup/
+  - name: Paris Data Ladies
+    img: images/partenaires/parisdataladies.jpg
+    url: https://www.meetup.com/fr-FR/Paris-DataLadies/
+  - name: Women Who Go
+    img: images/partenaires/womenwhogo.jpeg
+    url: https://www.meetup.com/fr-FR/Women-Who-Go-Paris/
+  - name: Women on Rails
+    img: images/partenaires/womenonrails.png
+    url: https://www.meetup.com/fr-FR/Women-On-Rails/
+  - name: Women in Machine Learning and Data Science
+    img: images/partenaires/wimlds.png
+    url: https://www.meetup.com/fr-FR/Paris-Women-in-Machine-Learning-Data-Science/
+
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
-    star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+  - name: Ada Tech School
+    img: images/partenaires/ada.png
+    url: http://google.fr
+  - name: Alan
+    img: images/partenaires/alan.png
+    url: http://google.fr
+  - name: Dashlane
+    img: images/partenaires/dashlane.png
+    url: http://google.fr
+  - name: Dataiku
+    img: images/partenaires/dataiku.png
+    url: http://google.fr
+  - name: Docker
+    img: images/partenaires/docker.png
+    url: http://google.fr
+  - name: Doctolib
+    img: images/partenaires/doctolib.png
+    url: http://google.fr
+  - name: Google
+    img: images/partenaires/google.png
+    url: http://google.fr
+  - name: ut7
+    img: images/partenaires/ut7.png
+    url: http://google.fr
+  - name: We Scale
+    img: images/partenaires/wescale.png
+    url: http://google.fr

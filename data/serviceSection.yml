@@ -4,21 +4,18 @@ topTitle: Notre mission ?
 title: >
   ## Diversifier le monde du numérique
 
-  Nous encourageons toutes les femmes à s'épanouir dans une carrière technique. Et pour y parvenir, nous avons différents outils en place. 
+  Nous encourageons toutes les femmes à _s'épanouir_ dans une carrière technique. Pour y parvenir, nous avons différents outils en place. 
 
 service:
   - content: >
-      #### Workshops
+      #### Slack
 
-      Ateliers autour de la programmation ou de développement personnel. 
-    image: images/service/ui-ux.svg
+      Notre [communauté Slack](https://forms.gle/xmDBRNckL2KqFFoK8) est un canal d'échanges _bienveillants_ entre développeuses, quelque soit leur niveau. Les sujets sont variés allant de la veille technique aux offres d'emploi en passant par des recommandations féministes. 
   - content: >
       #### Meetups
 
-      Conférences techniques. oskour lorem ipsum
-    image: images/service/web.svg
+      Nous organisons des conférences et workshops techniques, physiques ou en ligne. Nos derniers événements sont rediffusés sur [Youtube](https://www.youtube.com/channel/UCJwB6S0vt1Hxjwt2lMMJi0Q). 
   - content: >
-      #### Apéros 
+      ####  Apéros 
 
-      En pause pendant la crise sanitaire. Remplacés par des cafés virtuels. oskour lorem ipsum
-    image: images/service/creative.svg
+      Les apéros sont un moment de rencontre privilégié entre les membres de la communauté. Ils sont en pause pendant la crise sanitaire, remplacés par des cafés virtuels.

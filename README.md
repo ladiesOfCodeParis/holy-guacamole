@@ -2,5 +2,9 @@
 
 - Install Hugo
 - git clone this repo
-- type hugo serve on your terminal
+- Initialize the theme 
+```
+git submodule update --init --recursive
+```
+- type `hugo serve` on your terminal
 - Enjoy :3 

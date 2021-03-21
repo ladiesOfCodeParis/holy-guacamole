@@ -27,20 +27,20 @@ weight = 5
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "Code de conduite"
+url = "https://github.com/ladiesOfCodeParis/welcome-kit/blob/master/code-of-conduct.md"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
+name = "Rejoindre le slack"
+url = "https://forms.gle/xmDBRNckL2KqFFoK8"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
+name = "Meetup"
+url = "https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/events"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
-url = "#"
+name = "Youtube"
+url = "https://www.youtube.com/channel/UCJwB6S0vt1Hxjwt2lMMJi0Q/videos"
 weight = 4
 
 [params]
@@ -54,7 +54,7 @@ logo = "images/site-navigation/logo.png"
 
 #[params.address]
 #address = "23 Khan Niketon, Grand Street, NYK."
-#email = "hello@example.com"
+email = "paris[at]ladiesofcode.com"
 #openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 #phone = "+(448) 833 5272 332"
 
@@ -69,15 +69,15 @@ logo = "images/site-navigation/logo.png"
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/LadiesofCodeParis"
 weight = 1
-[[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
-weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
+# [[params.social]]
+# icon = "fa-linkedin-square"
+# url = "https://www.linkedin.com/"
+# weight = 2
+# [[params.social]]
+# icon = "fa-pinterest-square"
+# url = "https://www.pinterest.com/"
+# weight = 3
 [[params.social]]
 icon = "fa-twitter-square"
-url = "https://twitter.com/"
+url = "https://twitter.com/LadiesCodeParis"
 weight = 4
