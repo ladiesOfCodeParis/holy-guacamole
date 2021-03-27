@@ -1,4 +1,4 @@
-baseURL = "https://affectionate-hermann-4bed1a.netlify.app/"
+baseURL = "https://ladiesofcodeparis.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
