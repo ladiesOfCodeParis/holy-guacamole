@@ -10,11 +10,11 @@ url = "#home"
 weight = 1
 [[menu.main]]
 name = "A propos >"
-url = "#about"
+url = "#service"
 weight = 2
 [[menu.main]]
 name = "Actions >"
-url = "#service"
+url = "#resume"
 weight = 3
 [[menu.main]]
 name = "Code de conduite >"
