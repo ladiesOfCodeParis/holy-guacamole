@@ -48,8 +48,8 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Ladies of Code Paris - Theme by Portio 2020"
 footerLogo = "images/site-navigation/logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+# formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "UA-93698323-1"
 logo = "images/site-navigation/logo.png"
 
 #[params.address]
