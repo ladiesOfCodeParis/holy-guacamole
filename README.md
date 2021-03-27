@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dbe83241-5d86-4082-a9c1-684307941658/deploy-status)](https://app.netlify.com/sites/affectionate-hermann-4bed1a/deploys)
+
 # Ladies of Code Paris - Site 
 
 Welcome to Ladies of Code Paris Website repository. 
