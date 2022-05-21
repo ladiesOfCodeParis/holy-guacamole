@@ -24,6 +24,12 @@ friends:
     url: https://www.meetup.com/fr-FR/Paris-Women-in-Machine-Learning-Data-Science/
 
 testimonial:
+  - name: CodeWorks
+    img: images/partenaires/codeworks.png
+    url: https://www.codeworks.fr
+  - name: Datadog
+    img: images/partenaires/datadog.jpg
+    url: https://www.datadoghq.com/
   - name: Ada Tech School
     img: images/partenaires/ada.png
     url: https://adatechschool.fr/
