@@ -2,47 +2,34 @@
 enable: true
 topTitle: Actions
 title: >
-  ## Meetups & Interventions 
+  ## Prochains événements & Interventions
 
   Nous organisons des meetups mais pas que. Nous intervenons également :
-  
-  - dans d'autres meetups et communautés tech pour parler de nos expériences 
-
+  - dans d'autres meetups et communautés tech pour parler de nos expériences
   - en collège-lycée pour encourager les jeunes filles à s'orienter vers des études en informatique
-tab1Name: Meetups
+tab1Name: Prochainement !
 tab2Name: Interventions
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Workshop: Créer son propre blog en React + Markdown + Next.js
+      #### Kubernetes Community Days
 
-      Au vu des conditions sanitaires, le workshop s'effectue à distance. 
+      La communauté Ladies of Code Paris est fière partenaire de [Kubernetes Community Days 2023](https://www.kcdfrance.fr/).
 
-      > [Inscriptions ici](https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/events/276710368/).
-      
-    time: 17 mars 2021
-  - content: >
-      #### Workshops Test-Driven-Development
+      L'événement aura lieu le 7 mars 2023 au Centre George Pompidou à Paris.
 
-      A travers différents workshops en petits groupes, Romy Alula nous introduit à l'art du TDD. 
-      
-      > Les inscriptions sont réservées aux membres du Slack, [cliquez ici pour en faire partie](https://forms.gle/xmDBRNckL2KqFFoK8).
-    time: Février à Juin 2021
-  - content: >
-      #### Gestion des side-projects
+      [![kcd-days](/images/partenaires/kcd-days.svg)](http://www.kcdfrance.fr)
 
-      Astuces pour se motiver à finir ses side-projects. 
-      
-      > L'événement est passé mais [le replay est disponible sur Youtube](https://www.youtube.com/watch?v=Wn-tEXo3ijw).
-    time: 9 décembre 2020
+
+    time: 7 mars 2023
 
 experience:
   - content: >
       #### Table ronde autour du télétravail @ Duchess France
 
-      Deux membres de Ladies of Code Paris ont fait un retour d'expérience sur leur année passée en télétravail. [Le replay est disponible ici](https://www.youtube.com/watch?v=_nkMhGLX9fk). 
+      Deux membres de Ladies of Code Paris ont fait un retour d'expérience sur leur année passée en télétravail. [Le replay est disponible ici](https://www.youtube.com/watch?v=_nkMhGLX9fk).
     time: 2021
   - content: >
       #### Interventions en collège-lycée
@@ -55,7 +42,7 @@ experience:
       Nous avons organisé une initiation à la programmation lors de la Code Week 2018. [Notre bilan de cette édition est disponible par ici](https://medium.com/ladiesofcodeparis/codeweek-2018-le-bilan-ebea53fd6ffd).
     time: 2018
   - content: >
-      #### A mon tour de Programmer 
+      #### A mon tour de Programmer
 
       Ladies of Code Paris a contribué à la formation de 12 développeuses en lançant la formation "A mon tour de programmer". [Un retour d'expérience est disponible ici](https://amontourdeprogrammer.fr/).
     time: 2017
