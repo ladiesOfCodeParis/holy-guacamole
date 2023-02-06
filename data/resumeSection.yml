@@ -24,7 +24,17 @@ education:
 
 
     time: 7 mars 2023
+  - content: >
+      #### Symfony Live 2023
 
+      La communauté Ladies of Code Paris est fière partenaire de [Symfony Live 2023](https://live.symfony.com/2023-paris/).
+
+      L'événement aura lieu le 23-24 mars 2023 à la Maison Internationale de la Cité internationale universitaire de Paris.
+
+      [![symfony-live](/images/partenaires/symfonylive.jpg)](https://live.symfony.com/2023-paris/)
+
+
+    time: 23-24 mars 2023
 experience:
   - content: >
       #### Table ronde autour du télétravail @ Duchess France
