@@ -19,6 +19,9 @@ friends:
   - name: Women on Rails
     img: images/partenaires/womenonrails.png
     url: https://www.meetup.com/fr-FR/Women-On-Rails/
+  - name: R-Ladies Paris
+    img: images/partenaires/rladiesparis.jpg
+    url: https://www.meetup.com/fr-FR/rladies-paris/
   - name: Women in Machine Learning and Data Science
     img: images/partenaires/wimlds.png
     url: https://www.meetup.com/fr-FR/Paris-Women-in-Machine-Learning-Data-Science/
