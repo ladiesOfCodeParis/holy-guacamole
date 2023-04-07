@@ -1,28 +1,23 @@
 ---
-title: "Ladies of Code Paris :female-technologist:"
+title: "Ladies of Code Paris"
 description: "Une communauté de femmes dans le numérique."
 ---
 
 {{< lead >}}
-Nous sommes une communauté de femmes dans le numérique à Paris.
+Hello world! :wave: :female-technologist:
 {{< /lead >}}
 
-Lancé en 2016, le chapitre français de Ladies of Code regroupe toutes les femmes dans la tech et les encourage par différents outils: meetups, Slack dédié, apéros ...
+<div class="h-14 bg-gradient-to-r from-cyan-500 to-blue-500">dfg</div>
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">page</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
+
+<div class="bg-purple-300">
+  <img class="object-contain h-48 w-96" src="images/LOC-logo-vect-no-margin.svg" alt="Ladies of Code Paris Logo">
 </div>
 
-Explore the [sample pages]({{< ref "samples" >}}) to get a feel for what Congo can do. If you like what you see, check out the project on [Github](https://github.com/jpanther/congo) or read the [Installation guide]({{< ref "docs/installation" >}}) to get started.
+<strong>Ladies of Code Paris</strong> est une communauté qui regroupe toutes les femmes dans la tech.
+
+Notre mission est de diversifier le monde du numérique !
+
+Nous encourageons toutes les femmes à s’épanouir dans une carrière technique.
+
 

@@ -1,0 +1,78 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+#
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Actions"
+  pageRef = "/actions"
+  weight = 10
+
+[[main]]
+  name = "Code of conduct"
+  url = "https://github.com/ladiesOfCodeParis/welcome-kit/blob/main/code-of-conduct.md"
+  weight = 20
+  [main.params]
+    target = "_blank"
+
+[[main]]
+  name = "FAQ"
+  pageRef = "/faq"
+  weight = 30
+
+[[main]]
+  name = "Partners"
+  pageRef = "/partners"
+  weight = 40
+
+
+[[main]]
+  name = "Press"
+  pageRef = "/press"
+  weight = 50
+
+[[main]]
+  name = "Contact"
+  pageRef = "/contact"
+  weight = 60
+
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/ladiesOfCodeParis/holy-guacamole"
+  weight = 70
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  name = "Youtube"
+  url = "https://www.youtube.com/channel/UCJwB6S0vt1Hxjwt2lMMJi0Q/videos"
+  weight = 90
+  [main.params]
+    icon = "youtube"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
