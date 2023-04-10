@@ -10,5 +10,10 @@ enableRobotsTXT = true
 paginate = 15
 summaryLength = 0
 
+custom_css = ["assets/css/compiled/main.css"]
+
+[params]
+  customcss = "css/compiled/main.css"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
