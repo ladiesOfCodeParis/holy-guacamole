@@ -14,6 +14,29 @@ tab2Target: experience
 
 education:
   - content: >
+      #### NewCrafts
+
+      La communauté Ladies of Code Paris est à nouveau partenaire de la nouvelle édition [NewCrafts 2023](https://ncrafts.io/).
+
+      L'événement aura lieu les 25 et 26 mai 2023 à Paris.
+
+      [![new crafts](/images/partenaires/newcrafts.png)](https://ncrafts.io/)
+
+
+    time: 25 et 26 mai 2023
+  - content: >
+      #### 50inTech Bootcamp
+
+      Nous soutenons l'événement "Bootcamp: Wanna be CTO ?"
+
+      L'événement aura lieu les 5 et 6 avril en ligne!
+
+      [![50intech](/images/partenaires/50intech.avif)](https://event.50intech.com/wannabecto)
+
+
+    time: 5 et 6 avril 2023
+experience:
+  - content: >
       #### Kubernetes Community Days
 
       La communauté Ladies of Code Paris est fière partenaire de [Kubernetes Community Days 2023](https://www.kcdfrance.fr/).
@@ -35,7 +58,6 @@ education:
 
 
     time: 23-24 mars 2023
-experience:
   - content: >
       #### Table ronde autour du télétravail @ Duchess France
 

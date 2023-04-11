@@ -27,6 +27,9 @@ friends:
     url: https://www.meetup.com/fr-FR/Paris-Women-in-Machine-Learning-Data-Science/
 
 testimonial:
+  - name: 50inTech
+    img: images/partenaires/50intech.avif
+    url: https://fr.50intech.com/
   - name: CodeWorks
     img: images/partenaires/codeworks.png
     url: https://www.codeworks.fr
