@@ -16,7 +16,7 @@ enableCodeCopy = true
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  showTitle = false
+  showTitle = true
 
 [footer]
   showCopyright = true

@@ -1,6 +1,6 @@
 ---
 title: "Ladies of Code Paris"
-description: "Une communauté de femmes dans le numérique."
+description: "Une communauté de femmes dans le numérique à Paris."
 ---
 
 <div class="flex justify-center">
