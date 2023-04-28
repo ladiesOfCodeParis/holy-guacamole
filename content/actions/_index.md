@@ -1,37 +1,44 @@
 ---
 title: "Actions"
-description: "Une communauté de femmes dans le numérique."
+description: "Les actions de la communauté Ladies of Code Paris."
 ---
 
-La communauté Ladies of Code Paris a pour mission de rendre le numérique plus diversifié. Différentes actions ont été mises en place depuis la création du groupe à Paris en juillet 2016.
+La communauté Ladies of Code Paris a pour mission de *rendre le numérique plus diversifié*. Notre objectif est d'encourager les femmes et minorités de genre à *s'épanouir dans une carrière technique*.
+
+Différentes actions ont été mises en place depuis la création du groupe à Paris en juillet 2016.
 
 ## Evénements
 
 Nous organisons différents types de meetups à Paris.
 
-- <span class="text-ternary-500">Tech Talks</span>: Meetups techniques classiques, ouverts à tou.te.s dans le respect du code de conduite.
-- <span class="text-primary-500">Apéros</span>: Moments d'échanges, afterworks dans un bar parisien, en non-mixité
+- <span class="text-ternary-500"><strong>Tech Talks</strong></span>: Meetups techniques classiques, ouverts à tou.te.s dans le respect du code de conduite.
+- <span class="text-primary-500"><strong>Apéros</strong></span>: Moments d'échanges, afterworks dans un bar parisien, en non-mixité
 
 *Les événements dépendent aussi des envies de nos membres.*
 
-Nous avons pu organiser d'autres formats atypiques :
+Nous avons pu organiser d'autres formats plus atypiques :
 - Projection du documentaire "Code: Debugging the Gender Gap" et débat
 - Initiations à la programmation lors de la #CodeWeek2018 (bilan disponible [ici](https://medium.com/ladiesofcodeparis/codeweek-2018-le-bilan-ebea53fd6ffd))
 - Participation à une [table ronde Duchess](https://www.youtube.com/watch?v=_nkMhGLX9fk) autour du télétravail
+- Intervention au forum des métiers du lycée Léonard de Vinci à Levallois Perret en 2019.
+
 
 Vous avez une idée d'événement en tête que vous souhaiteriez organiser ?
 
-{{< button href="#button" target="_self" >}}
-Call to action
+{{< button href="mailto:ladiesofcode.paris@gmail.com" target="_self" >}}
+Contactez nous !
 {{< /button >}}
 
 
-Nous faisons aussi des interventions en collège-lycée pour parler de nos métiers, n'hésitez pas à nous contacter si vous êtes prof !
+## Réseau de soutien
+
+Depuis 2016, notre groupe Slack permet aux Ladies d'échanger dans un cadre bienveillant sur des sujets tech ou des problématiques de travail. Vous pouvez recevoir une invitation [en remplissant ce formulaire](https://forms.gle/TxG7KwDaX8UPbcWm8) !
 
 ## Amplifier les voix
 
 Nous avons à coeur de soutenir les différentes initiatives #WomenInTech ou visant à rendre le numérique plus inclusif en relayant leurs événements sur nos réseaux sociaux.
 
+Toutes les communautés que nous soutenons sont listées [ici](partenaires).
 
 ## Formations
 
@@ -39,21 +46,25 @@ En 2017, la formation ["A mon tour de programmer!"](https://amontourdeprogrammer
 
 ## Sponsor communautaire
 
-Nous sommes régulièrement invitées à des événements tech. en tant que partenaire communauté. Notre action est de relayer l'événement auprès de notre communauté, encourager des speakers à y participer ...
+Nous sommes régulièrement invitées à des conférences techniques en tant que partenaire communauté.
 
-### NewCrafts
+Notre action est de relayer l'événement auprès de notre communauté et encourager des speakers à postuler aux CFP.
+
+### [NewCrafts](http://newcrafts.io/)
 
 5 places ont été offertes à la communauté.
 
-### Kubernetes Community Days
+### [Kubernetes Community Days](https://www.kcdfrance.fr/)
+
 Nous avons eu des places offertes pour la communauté ainsi que l'opportunité d'animer deux tables rondes.
 
 Elles sont visionnables ici 👇
 
-### Symfony Live
+### [Symfony Live](https://live.symfony.com/2023-paris/)
 
 Nous avons pu être partenaire sponsor à deux éditions.
 
-### Conférences dot
+### [Conférences dot](https://www.dotconferences.com/conference/dotjs)
 
+Nous avons bénéficié de plusieurs places offertes pour la communauté.
 
