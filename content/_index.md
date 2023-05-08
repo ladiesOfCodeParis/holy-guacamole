@@ -1,11 +1,8 @@
 ---
 title: "Ladies of Code Paris"
 description: "Une communauté de femmes dans le numérique à Paris."
+showTitle: false
 ---
-
-<div class="flex justify-center">
-  <img class="object-contain h-48 w-96" src="/images/LOC-logo-vect-no-margin.svg" alt="Ladies of Code Paris Logo">
-</div>
 
 {{< lead >}}
 Hello world! :wave: :female-technologist:
@@ -18,5 +15,9 @@ Hello world! :wave: :female-technologist:
 Notre mission est de diversifier le monde du numérique !
 
 Nous encourageons toutes les femmes à s’épanouir dans une carrière technique.
+
+<div class="flex justify-center">
+  <img class="object-contain h-48 w-96" src="/images/LOC-logo-vect-no-margin.svg" alt="Ladies of Code Paris Logo">
+</div>
 
 

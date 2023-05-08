@@ -14,7 +14,7 @@ Nous organisons différents types de meetups à Paris.
 - <span class="text-ternary-500"><strong>Tech Talks</strong></span>: Meetups techniques classiques, ouverts à tou.te.s dans le respect du code de conduite.
 - <span class="text-primary-500"><strong>Apéros</strong></span>: Moments d'échanges, afterworks dans un bar parisien, en non-mixité
 
-*Les événements dépendent aussi des envies de nos membres.*
+*Les événements sont réalisés en fonction des envies de nos membres.*
 
 Nous avons pu organiser d'autres formats plus atypiques :
 - Projection du documentaire "Code: Debugging the Gender Gap" et débat
@@ -59,6 +59,9 @@ Notre action est de relayer l'événement auprès de notre communauté et encour
 Nous avons eu des places offertes pour la communauté ainsi que l'opportunité d'animer deux tables rondes.
 
 Elles sont visionnables ici 👇
+
+- [Dev/Ops/Devops: Quand commence l'un ? Quand s'arrête l'autre ?](https://www.youtube.com/watch?v=aHMyT70ykTk)
+- [Open Source: Comment faciliter les contributions et les évangéliser ?](https://www.youtube.com/watch?v=nZtoTYx1sPU)
 
 ### [Symfony Live](https://live.symfony.com/2023-paris/)
 
