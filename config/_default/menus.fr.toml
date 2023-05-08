@@ -11,11 +11,6 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "/"
-  pageRef = "_index.md"
-  weight = 5
-
-[[main]]
   name = "Actions"
   pageRef = "/actions"
   weight = 10

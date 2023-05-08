@@ -22,8 +22,8 @@ showReadingTime: false
 
 ## Kit médias
 
-Vous souhaitez parler de Ladies of Code Paris ? Voici quelques ressources qui peuvent vous être utiles.
+Pour les partenariats d'échange de visibilité, voici des logos que vous pouvez utiliser pour vos sites ou impressions diverses.
 
-### Logos
+*Logos réalisés par Laëtitia, merci à elle !*
 
-Logos réalisés par Laëtitia, merci à elle !
+tbd

@@ -21,12 +21,12 @@ Cependant, vous pouvez soutenir ces autres associations qui nous tiennent à coe
 
 Nous sommes joignables derrière le mail: <a href="mailto:ladiesofcode.paris@gmail.com">ladiesofcode.paris[at]gmail.com</a>
 
-## Core Team
+## L'équipe organisatrice
 
-Merci à la Core Team pour l'énergie qu'elle apporte à ce groupe !
+Merci pour l'énergie qu'elle apporte à ce groupe !
 
-{{< button href="mailto: ladiesofcode.paris@gmail.com?subject=Rejoindre la core team" target="_self" >}}
-Rejoindre la core team
+{{< button href="mailto: ladiesofcode.paris@gmail.com?subject=Devenir co-organisatrice" target="_self" >}}
+Devenir co-organisatrice
 {{< /button >}}
 
 
