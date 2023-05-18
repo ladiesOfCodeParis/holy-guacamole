@@ -24,13 +24,13 @@ Nous sommes joignables derrière le mail: <a href="mailto:ladiesofcode.paris@gma
 
 ## Core Team
 
-| Membre         | Linkedin                           |
-| -------------------- | --------------------------------- |
-| Laïla ATRMOUH              |                |
-| Paola DUCOLIN                |                 |
-| Morgane FLAUDER                |                 |
-| Aude ROUAUX                |                 |
-| Marie TERRIER                |                 |
+| Membre          | Lien                           |
+| --------------- | --------------------------------- |
+| Laïla ATRMOUH   | [Blog](https://leiluspocus.netlify.app/)   |
+| Paola DUCOLIN   | [Linkedin](https://www.linkedin.com/in/paola-ducolin-9a892557/) |
+| Morgane FLAUDER | [Linkedin](https://www.linkedin.com/in/morgane-f-055b9541/) |
+| Aude ROUAUX     | [Linkedin](https://www.linkedin.com/in/aude-rouaux/) |
+| Marie TERRIER   | [Linkedin](https://www.linkedin.com/in/marieterrier/) |
 
 
 
