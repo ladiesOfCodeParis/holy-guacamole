@@ -15,6 +15,7 @@ Nous sommes toujours à la recherche d'entreprises pour accueillir nos meetups e
 Cependant, vous pouvez soutenir ces autres associations qui nous tiennent à coeur :
 - [Le Planning Familial](https://www.planning-familial.org/fr)
 - [Lallab](https://www.lallab.fr/)
+- [La place des Grenouilles](https://lapdg.fr/)
 - [Le Refuge](https://le-refuge.org/)
 
 ## Email

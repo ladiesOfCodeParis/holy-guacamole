@@ -27,4 +27,7 @@ Pour les partenariats d'échange de visibilité, voici des logos que vous pouvez
 
 *Logos réalisés par Laëtitia, merci à elle !*
 
-tbd
+- [Logo vectoriel original au format AI](images/LOC-logo-vect.ai)
+- [Logo vectoriel original au format SVG](images/LOC-logo-vect.svg)
+- [Logo vectoriel au format PNG sans marges](images/LOC-logo-vect-no-margin.png)
+- [Logo vectoriel au format SVG sans marges](images/LOC-logo-vect-no-margin.svg)

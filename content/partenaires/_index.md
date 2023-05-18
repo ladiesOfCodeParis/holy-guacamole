@@ -34,3 +34,5 @@ Ladies of Code Paris salue ces communautés qui rendent le numérique plus inclu
   <div><a href="https://www.meetup.com/fr-FR/Duchess-France-Meetup/" target="_blank" rel="noopener"><img src="https://ladiesofcodeparis.netlify.app/images/partenaires/duchess.png" /></a></div>
   <div><a href="https://www.meetup.com/fr-FR/Women-Who-Go-Paris/" target="_blank" rel="noopener"><img src="https://ladiesofcodeparis.netlify.app/images/partenaires/womenwhogo.jpeg" /></a></div>
 </div>
+
+Nous saluons également [les associations du collectif Femmes@Numérique](https://femmes-numerique.fr/les-assos-a-la-carte/).
