@@ -10,6 +10,7 @@ enableRobotsTXT = true
 paginate = 15
 summaryLength = 0
 
+googleAnalytics = "UA-93698323-1"
 custom_css = ["assets/css/compiled/main.css"]
 
 [params]
