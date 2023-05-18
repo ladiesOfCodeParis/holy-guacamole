@@ -43,25 +43,6 @@
   pageRef = "/contact"
   weight = 60
 
-
-[[main]]
-  name = "GitHub"
-  url = "https://github.com/ladiesOfCodeParis/holy-guacamole"
-  weight = 70
-  [main.params]
-    icon = "github"
-    showName = false
-    target = "_blank"
-
-[[main]]
-  name = "Youtube"
-  url = "https://www.youtube.com/channel/UCJwB6S0vt1Hxjwt2lMMJi0Q/videos"
-  weight = 90
-  [main.params]
-    icon = "youtube"
-    showName = false
-    target = "_blank"
-
 [[main]]
   identifier = "search"
   weight = 99
