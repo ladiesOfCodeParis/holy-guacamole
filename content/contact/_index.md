@@ -21,12 +21,29 @@ Cependant, vous pouvez soutenir ces autres associations qui nous tiennent à coe
 
 Nous sommes joignables derrière le mail: <a href="mailto:ladiesofcode.paris@gmail.com">ladiesofcode.paris[at]gmail.com</a>
 
-## L'équipe organisatrice
+## Core Team
 
-Merci pour l'énergie qu'elle apporte à ce groupe !
+| Membre         | Linkedin                           |
+| -------------------- | --------------------------------- |
+| Laïla ATRMOUH              |                |
+| Paola DUCOLIN                |                 |
+| Morgane FLAUDER                |                 |
+| Aude ROUAUX                |                 |
+| Marie TERRIER                |                 |
 
-{{< button href="mailto: ladiesofcode.paris@gmail.com?subject=Devenir co-organisatrice" target="_self" >}}
-Devenir co-organisatrice
-{{< /button >}}
 
 
+{{< alert "lightbulb" >}}
+
+Vous souhaitez faire partie de la core team en organisant régulièrement des meetups ? <a href="mailto: ladiesofcode.paris@gmail.com">Contactez nous.</a>
+
+{{< /alert >}}
+
+## Nos réseaux sociaux
+
+- <a href="http://www.twitter.com/ladiescodeparis" target="_blank" rel="noopener">Twitter</a>
+- <a href="https://www.facebook.com/LadiesCodeParis/" target="_blank" rel="noopener">Facebook</a>
+- <a href="https://www.youtube.com/channel/UCJwB6S0vt1Hxjwt2lMMJi0Q" target="_blank" rel="noopener">Youtube</a>
+- <a href="https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/" target="_blank" rel="noopener">Meetup</a>
+- <a href="https://instagram.com/ladiesofcode.paris" target="_blank" rel="noopener">Instagram</a>
+- <a href="https://medium.com/@LadiesCodeParis" target="_blank" rel="noopener">Medium</a>

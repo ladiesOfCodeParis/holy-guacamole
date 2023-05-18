@@ -10,7 +10,7 @@ Hello world! :wave: :female-technologist:
 
   <div class="h-1 bg-gradient-to-r to-primary-500 via-secondary-500 from-ternary-500"></div>
 
-<strong>Ladies of Code Paris</strong> est une communauté qui regroupe toutes les femmes dans la tech: nous nous encourageons à nous épanouir dans une carrière technique.
+<strong>Ladies of Code Paris</strong> est une communauté qui regroupe toutes les femmes dans la tech : nous nous encourageons à nous épanouir dans une carrière technique.
 
 Notre mission est de <u>diversifier</u> le monde du numérique !
 

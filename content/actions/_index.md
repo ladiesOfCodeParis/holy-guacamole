@@ -32,7 +32,11 @@ Contactez nous !
 
 ## Réseau de soutien
 
-Depuis 2016, notre groupe Slack permet aux Ladies d'échanger dans un cadre bienveillant sur des sujets tech ou des problématiques de travail. Vous pouvez recevoir une invitation [en remplissant ce formulaire](https://forms.gle/TxG7KwDaX8UPbcWm8) !
+Depuis 2016, notre groupe Slack permet aux Ladies d'échanger dans un cadre bienveillant sur des sujets tech ou des problématiques de travail.
+
+Nous avons également lancé un réseau de mentorat où chaque personne peut être mentorée mais mentorer quelqu'un sur un sujet.
+
+Vous pouvez recevoir une invitation [en remplissant ce formulaire](https://forms.gle/TxG7KwDaX8UPbcWm8) !
 
 ## Amplifier les voix
 
