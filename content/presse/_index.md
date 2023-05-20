@@ -25,7 +25,7 @@ showReadingTime: false
 
 Pour les partenariats d'échange de visibilité, voici des logos que vous pouvez utiliser pour vos sites ou impressions diverses.
 
-*Logos réalisés par Laëtitia, merci à elle !*
+*Logos réalisés par [Laëtitia](https://www.linkedin.com/in/laetitia-langlois/), merci à elle !*
 
 - [Logo vectoriel original au format AI](images/LOC-logo-vect.ai)
 - [Logo vectoriel original au format SVG](images/LOC-logo-vect.svg)
