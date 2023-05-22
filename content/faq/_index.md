@@ -8,10 +8,10 @@ Les réponses à toutes vos questions se trouvent probablement ici !
 
 Tu es *évidemment la bienvenue*. Il n'y a pas de niveau minimum requis pour rejoindre notre groupe.
 
-> 💡 Les talks des meetups seront décrits le plus précisemment possible, nous faisons en sorte qu'il y ait au moins un talk qui puisse parler à des personnes junior dans nos meetups!
+> 💡 Les talks des meetups seront décrits le plus précisemment possible, nous faisons en sorte qu'il y ait au moins un talk qui puisse parler à des personnes junior dans nos meetups !
 
 ## A quelle fréquence organisez vous des meetups ?
-La communauté est gérée par des membres **bénévoles**. Le rythme des meetups est donc fortement corrélé à nos disponibilités, notre motivation: il peut y en avoir un par mois environ mais nous ne nous imposons pas de rythme.
+La communauté est gérée par des membres **bénévoles**. Le rythme des meetups est donc fortement corrélé à nos disponibilités, notre motivation : il peut y en avoir un par mois environ mais nous ne nous imposons pas de rythme.
 ## Comment participer à vos événements ?
 Il faut rejoindre le groupe Meetup et simplement cliquer sur "Participer".
 
@@ -27,7 +27,7 @@ Lorsque notre entreprise hôte dispose d'un système de captation, nous enregist
 
 Il y a beaucoup de personnes dans la communauté qui ont fait une reconversion. Via notre communauté Slack, tu pourras poser les questions que tu souhaites.
 
-Nous te recommandons ces vidéos de témoignages de personnes qui ont fait une reconversion:
+Nous te recommandons ces vidéos de témoignages de personnes qui ont fait une reconversion :
 - [De criminologue à développeuse, Caroline Chuong](https://www.youtube.com/watch?v=siYH9HwU8Cg&list=PLeAz-56jdPIh_Zws5QnO_v7JPEjKIIqCv&index=1)
 - [Building confidence as a Software Engineer, Emmanuelle Franquelin](https://www.youtube.com/watch?v=68bLFanvfLU&list=PLeAz-56jdPIh_Zws5QnO_v7JPEjKIIqCv&index=2)
 - [Se reconvertir après 30 ans, Anna Breyer](https://www.youtube.com/watch?v=8ig9IesbhzQ&list=PLeAz-56jdPIh_Zws5QnO_v7JPEjKIIqCv&index=3)
@@ -39,9 +39,9 @@ Et enfin, voici quelques sites qui peuvent t'aider sur ton parcours de reconvers
 - [Le site de Code Suzette](https://codesuzette.dev/)
 ## Je cherche une marraine / mentor, proposez vous ce système ?
 
-Nous proposons un système de marrainage: il se base sur le principe que chacune peut apporter à quelqu'un d'autre et peut tirer bénéfice de quelqu'un d'autre.
+Nous proposons un système de marrainage : il se base sur le principe que chacune peut apporter à quelqu'un d'autre et peut tirer bénéfice de quelqu'un d'autre.
 
-Vous pouvez revoir [le meetup qui introduit le marrainage chez Ladies of Code ici](https://www.youtube.com/watch?v=-N3d3xM1x2c). Ensuite, vous pourrez poster sur Slack un message sur le chan ``#mentorat`` en spécifiant:
+Vous pouvez revoir [le meetup qui introduit le marrainage chez Ladies of Code ici](https://www.youtube.com/watch?v=-N3d3xM1x2c). Ensuite, vous pourrez poster sur Slack un message sur le chan ``#mentorat`` en spécifiant :
 ```
 Je suis :
 Situation pro :
@@ -51,11 +51,11 @@ Je peux mentorer sur :
 
 ## J'aimerais m'investir dans la communauté, de quoi avez vous besoin ?
 
-La communauté est organisée selon le volontariat: chaque bénévole apporte ce qu'elle souhaite.
+La communauté est organisée selon le volontariat : chaque bénévole apporte ce qu'elle souhaite.
 
-Nous avons plutôt tendance à poser la question inverse: qu'est-ce qui t'intéresse et qu'est-ce que tu souhaiterais donner à la communauté Ladies of Code ?
+Nous avons plutôt tendance à poser la question inverse : qu'est-ce qui t'intéresse et qu'est-ce que tu souhaiterais donner à la communauté Ladies of Code ?
 
-N'hésite pas à nous faire un mail à ce sujet ou à nous en parler lors du prochain meetup!
+N'hésite pas à nous faire un mail à ce sujet ou à nous en parler lors du prochain meetup !
 
 ## Quels sont les critères pour accueillir un évènement ?
 
@@ -63,7 +63,7 @@ Nous privilégions les entreprises pouvant :
 - **Accueillir** une quarantaine de personnes
 - **Fournir un enregistrement** du meetup
 - **Fournir un apéro** avec options végétariennes et sans alcool
-- 🍒 sur le gâteau: avec un emplacement bien desservi à Paris (transports proches)
+- 🍒 sur le gâteau : avec un emplacement bien desservi à Paris (transports proches)
 
 ## Je suis une entreprise qui souhaite vous soutenir. Comment faire ?
 
@@ -79,7 +79,7 @@ Si vous avez des moyens financiers 💰
 
 ## Je suis organisateur de conférence, est-il possible de relayer mon appel dans votre communauté ? De me suggérer des oratrices ?
 
-Oui, c'est possible! Il faut que votre conférence ait un code de conduite et que l'équipe organisatrice soit au fait de comment gérer d'éventuelles violences sexistes au sein de l'événement.
+Oui, c'est possible ! Il faut que votre conférence ait un code de conduite et que l'équipe organisatrice soit au fait de comment gérer d'éventuelles violences sexistes au sein de l'événement.
 
 
 ## J'aimerais recruter plus de femmes dans mon équipe. Par où puis-je vous transmettre mon offre d'emploi ?
@@ -93,11 +93,11 @@ Si votre entreprise a une politique de diversité claire en interne, le partage 
 Vous pouvez nous envoyer un mail en indiquant ce que vous avez en place en interne pour accueillir vos nouvelles recrues ainsi que votre politique interne liée à la diversité !
 
 Si vous cherchez à diversifier vos équipes mais que vous ne savez pas comment, voici quelques ressources qui peuvent vous aider :
-- [Talk de Marcy Ericka Charollois: Pourquoi vous n'attirerez et ne retiendrez pas de femmes dans vos équipes Tech ?](https://www.youtube.com/watch?v=6g0quTQqpr8)
+- [Talk de Marcy Ericka Charollois : Pourquoi vous n'attirerez et ne retiendrez pas de femmes dans vos équipes Tech ?](https://www.youtube.com/watch?v=6g0quTQqpr8)
 - [The Allyance](https://theallyance.one/)
 ## Je suis un homme, puis-je assister à vos meetups ?
 
-Tant qu'il est indiqué **"Public: Ouvert à tou.te.s"** dans la description de l'événement, vous êtes bien sûr le bienvenu! Vous êtes soumis au respect du code de conduite comme l'ensemble des participants.
+Tant qu'il est indiqué **"Public : Ouvert à tou.te.s"** dans la description de l'événement, vous êtes bien sûr le bienvenu ! Vous êtes soumis au respect du code de conduite comme l'ensemble des participant.e.s.
 
 Seule notre communauté Slack est en non-mixité.
 

@@ -24,7 +24,7 @@ Ladies of Code bénéficie ou a bénéficié du soutien de ces entreprises (héb
 
 ## Communautés amies
 
-Ladies of Code Paris salue ces communautés qui rendent le numérique plus inclusif!
+Ladies of Code Paris salue ces communautés qui rendent le numérique plus inclusif !
 
 <div class="grid grid-cols-4 gap-2 content-center items-center">
   <div><a href="https://www.meetup.com/fr-FR/paris-dataladies/" target="_blank" rel="noopener"><img src="https://ladiesofcodeparis.netlify.app/images/partenaires/parisdataladies.jpg" /></a></div>

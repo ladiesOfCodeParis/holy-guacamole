@@ -20,7 +20,7 @@ Cependant, vous pouvez soutenir ces autres associations qui nous tiennent à coe
 
 ## Email
 
-Nous sommes joignables derrière le mail: <a href="mailto:ladiesofcode.paris@gmail.com">ladiesofcode.paris[at]gmail.com</a>
+Nous sommes joignables derrière le mail : <a href="mailto:ladiesofcode.paris@gmail.com">ladiesofcode.paris[at]gmail.com</a>
 
 ## Core Team
 

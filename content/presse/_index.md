@@ -9,16 +9,16 @@ showReadingTime: false
 ---
 
 <span>
-<u>Dernière mise à jour</u>: 30/03/2023
+<u>Dernière mise à jour</u> : 30/03/2023
 </span>
 
 ## Interviews
 
-- 2016: [Interview de Ludwine Probst](https://www.youtube.com/watch?v=ALHg18opS1A), la cofondatrice de la commuanuté à  Viva Technology.
-- 2018: [Interview de Mathilde Tourcheboeuf et Laïla Atrmouh](https://www.youtube.com/watch?v=w2HG7OKufpE), membres de la Core Team, par BlueCoders
-- 2020: [Passage à la radio Cause Commune de Laïla Atrmouh](https://www.librealire.org/libre-a-vous-radio-cause-commune-transcription-de-l-emission-du-10-novembre-2020)
-- 2023: [Interview de Laïla Atrmouh de Ladies of Code et Angélique Jard de Duchess France pour Informatique News](https://www.youtube.com/watch?v=RiKZCJzTLAQ), au Kubernetes Community Days France.
-- 2023: [Interviews de Hannah, Catherine, Alix, Nour, Aurélie et Marie lors d'un meetup Ladies of Code - PALO IT](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7031575969551286273/)
+- 2016 : [Interview de Ludwine Probst](https://www.youtube.com/watch?v=ALHg18opS1A), la cofondatrice de la commuanuté à  Viva Technology.
+- 2018 : [Interview de Mathilde Tourcheboeuf et Laïla Atrmouh](https://www.youtube.com/watch?v=w2HG7OKufpE), membres de la Core Team, par BlueCoders
+- 2020 : [Passage à la radio Cause Commune de Laïla Atrmouh](https://www.librealire.org/libre-a-vous-radio-cause-commune-transcription-de-l-emission-du-10-novembre-2020)
+- 2023 : [Interview de Laïla Atrmouh de Ladies of Code et Angélique Jard de Duchess France pour Informatique News](https://www.youtube.com/watch?v=RiKZCJzTLAQ), au Kubernetes Community Days France.
+- 2023 : [Interviews de Hannah, Catherine, Alix, Nour, Aurélie et Marie lors d'un meetup Ladies of Code - PALO IT](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7031575969551286273/)
 
 
 ## Kit médias

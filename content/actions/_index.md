@@ -11,13 +11,13 @@ Différentes actions ont été mises en place depuis la création du groupe à P
 
 Nous organisons différents types de meetups à Paris.
 
-- <span class="text-ternary-500"><strong>Tech Talks</strong></span>: Meetups techniques classiques, ouverts à tou.te.s dans le respect du code de conduite.
-- <span class="text-primary-500"><strong>Apéros</strong></span>: Moments d'échanges, afterworks dans un bar parisien, en non-mixité
+- <span class="text-ternary-500"><strong>Tech Talks</strong></span> : Meetups techniques classiques, ouverts à tou.te.s dans le respect du code de conduite.
+- <span class="text-primary-500"><strong>Apéros</strong></span> : Moments d'échanges, afterworks dans un bar parisien, en non-mixité
 
 *Les événements sont réalisés en fonction des envies de nos membres.*
 
 Nous avons pu organiser d'autres formats plus atypiques :
-- Projection du documentaire "Code: Debugging the Gender Gap" et débat
+- Projection du documentaire "Code : Debugging the Gender Gap" et débat
 - Initiations à la programmation lors de la #CodeWeek2018 (bilan disponible [ici](https://medium.com/ladiesofcodeparis/codeweek-2018-le-bilan-ebea53fd6ffd))
 - Participation à une [table ronde Duchess](https://www.youtube.com/watch?v=_nkMhGLX9fk) autour du télétravail
 - Intervention au forum des métiers du lycée Léonard de Vinci à Levallois Perret en 2019.
@@ -46,7 +46,7 @@ Toutes les communautés que nous soutenons sont listées [ici](partenaires).
 
 ## Formations
 
-En 2017, la formation ["A mon tour de programmer!"](https://amontourdeprogrammer.fr/) a été lancée en partenariat avec Social Builder et ut7. 12 femmes ont pu bénéficier de ce programme pour devenir développeuse.
+En 2017, la formation ["A mon tour de programmer !"](https://amontourdeprogrammer.fr/) a été lancée en partenariat avec Social Builder et ut7. 12 femmes ont pu bénéficier de ce programme pour devenir développeuse.
 
 ## Sponsor communautaire
 
@@ -64,8 +64,8 @@ Nous avons eu des places offertes pour la communauté ainsi que l'opportunité d
 
 Elles sont visionnables ici 👇
 
-- [Dev/Ops/Devops: Quand commence l'un ? Quand s'arrête l'autre ?](https://www.youtube.com/watch?v=aHMyT70ykTk)
-- [Open Source: Comment faciliter les contributions et les évangéliser ?](https://www.youtube.com/watch?v=nZtoTYx1sPU)
+- [Dev/Ops/Devops : Quand commence l'un ? Quand s'arrête l'autre ?](https://www.youtube.com/watch?v=aHMyT70ykTk)
+- [Open Source : Comment faciliter les contributions et les évangéliser ?](https://www.youtube.com/watch?v=nZtoTYx1sPU)
 
 ### [Symfony Live](https://live.symfony.com/2023-paris/)
 
