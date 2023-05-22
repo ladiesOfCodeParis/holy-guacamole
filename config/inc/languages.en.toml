@@ -1,0 +1,13 @@
+languageCode = "en-uk"
+languageName = "English (UK)"
+displayName = "🇬🇧"
+isoCode = "en-UK"
+weight = 1
+rtl = false
+
+title = "Ladies of Code Paris"
+description = "Ladies of Code Paris is a community of women and non-binary people who are working (or planning to work!) in tech industry."
+# copyright = "&copy; 2023 Congo contributors"
+
+dateFormat = "2 January 2006"
+

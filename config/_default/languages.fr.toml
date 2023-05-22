@@ -1,0 +1,13 @@
+languageCode = "fr-fr"
+languageName = "French (FR)"
+displayName = "🇫🇷"
+isoCode = "fr-FR"
+weight = 1
+rtl = false
+
+title = "Ladies of Code Paris"
+description = "Ladies of Code Paris est une communauté de femmes dans le numérique."
+# copyright = "&copy; 2023 Congo contributors"
+
+dateFormat = "2 January 2006"
+

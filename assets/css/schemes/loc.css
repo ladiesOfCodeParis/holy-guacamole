@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**
+ $red: #e64533;
+$green: #4ea29b;
+$purple: #2b3280;
+ */
+
+@layer base {
+  :root {
+    --color-primary-500: 43, 50, 128;
+    --color-primary-600: 230, 69, 51;
+    --color-primary-800: 230, 69, 51;
+    --color-secondary: 78, 162, 155;
+    --color-secondary-500: 78, 162, 155;
+    --color-ternary: 230, 69, 51;
+    --color-ternary-500: 230, 69, 51;
+  }
+
+    a[role="button"]:hover {
+    padding: 2px;
+  }
+
+  a[role="button"]:hover {
+    outline: 2px solid #e64533 !important;
+  }
+}

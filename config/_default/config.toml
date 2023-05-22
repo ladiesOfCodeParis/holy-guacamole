@@ -1,0 +1,20 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+siteTitle="Ladies of Code Paris"
+theme = "congo"
+defaultContentLanguage = "fr"
+
+enableRobotsTXT = true
+paginate = 15
+summaryLength = 0
+
+googleAnalytics = "UA-93698323-1"
+custom_css = ["assets/css/compiled/main.css"]
+
+[params]
+  customcss = "css/compiled/main.css"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
