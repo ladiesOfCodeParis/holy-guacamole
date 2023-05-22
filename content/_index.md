@@ -16,7 +16,7 @@ Notre mission est de <u>diversifier</u> le monde du numérique !
 
 
 <div class="flex justify-center">
-  <img class="object-contain h-48 w-96" src="/images/LOC-logo-vect-no-margin.svg" alt="Ladies of Code Paris Logo">
+  <img class="object-contain h-48 w-96" src="/presse/LOC-logo-vect-no-margin.svg" alt="Ladies of Code Paris Logo">
 </div>
 
 ## Prochains événements
