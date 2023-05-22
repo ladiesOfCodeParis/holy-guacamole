@@ -4,7 +4,7 @@
 
 Welcome to Ladies of Code Paris Website repository. 
 
-The website is powered by Hugo (and the sweet [Portio](https://github.com/StaticMania/portio-hugo) theme) and it is deployed on Netlify. 
+The website is powered by Hugo (and the sweet [Congo](https://github.com/jpanther/congo) theme) and it is deployed on Netlify. 
 
 ## Checkout the project 
 - [Install Hugo](https://gohugo.io/getting-started/installing/)
