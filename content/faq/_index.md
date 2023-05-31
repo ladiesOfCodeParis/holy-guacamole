@@ -22,7 +22,7 @@ Il suffit de contacter une des membres de l'équipe organisatrice via le formula
 
 ## Est ce que les précédents meetups sont en ligne ?
 
-Lorsque notre entreprise hôte dispose d'un système de captation, nous enregistrons les événements et les mettons en ligne sur [notre chaîne Youtube](https://www.youtube.com/@ladiesofcodeparis2123/videos).
+Lorsque notre entreprise hôte dispose d'un système de captation, nous enregistrons les événements et les mettons en ligne sur [notre chaîne Youtube](https://www.youtube.com/@ladiesofcodeparis/videos).
 ## J'envisage de me reconvertir, vais je trouver des réponses dans votre groupe ? Avez vous des contenus à me suggérer ?
 
 Il y a beaucoup de personnes dans la communauté qui ont fait une reconversion. Via notre communauté Slack, tu pourras poser les questions que tu souhaites.

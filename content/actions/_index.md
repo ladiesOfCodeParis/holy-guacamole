@@ -42,7 +42,7 @@ Vous pouvez recevoir une invitation [en remplissant ce formulaire](https://forms
 
 Nous avons à coeur de soutenir les différentes initiatives #WomenInTech ou visant à rendre le numérique plus inclusif en relayant leurs événements sur nos réseaux sociaux.
 
-Toutes les communautés que nous soutenons sont listées [ici](partenaires).
+Toutes les communautés que nous soutenons sont listées [ici](https://ladiesofcodeparis.netlify.app/partenaires/).
 
 ## Formations
 

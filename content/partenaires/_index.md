@@ -17,7 +17,7 @@ Ladies of Code bénéficie ou a bénéficié du soutien de ces entreprises (héb
   <div><a href="https://www.datadoghq.com/" target="_blank" rel="noopener"><img src="datadog.avif" /></a></div>
   <div><a href="https://www.codeworks.fr/" target="_blank" rel="noopener"><img src="codeworks.png" /></a></div>
   <div><a href="https://www.docker.com" target="_blank" rel="noopener"><img src="docker.png" /></a></div>
-  <div><a href="https://www.meilleursagents.com" target="_blank" rel="noopener"><img src="ma-logo.svg" /></a></div>
+  <div><a href="https://www.mirakl.com/fr-FR/careers" target="_blank" rel="noopener"><img src="mirakl.jpg" /></a></div>
   <div><a href="https://fr.50intech.com/" target="_blank" rel="noopener"><img src="50intech.avif" /></a></div>
 </div>
 
