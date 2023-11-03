@@ -17,6 +17,8 @@ Cependant, vous pouvez soutenir ces autres associations qui nous tiennent à coe
 - [Lallab](https://www.lallab.fr/)
 - [La place des Grenouilles](https://lapdg.fr/)
 - [Le Refuge](https://le-refuge.org/)
+- [NousToutes](https://www.helloasso.com/associations/noustoutes)
+- [Electronic Tales](https://fr.ulule.com/micro-bootcamps/)
 
 ## Email
 
