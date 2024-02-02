@@ -24,10 +24,10 @@ Notre mission est de <u>diversifier</u> le monde du numérique !
 [Notre prochain meetup sera bientôt annoncé sur notre groupe](https://www.meetup.com/fr-FR/ladies-of-code-paris/events)!
 ### Sponsor communautaire
 
-Ladies of Code Paris est fière partenaire de [NewCrafts 2023](https://ncrafts.io/), qui aura lieu les 25 et 26 mai 2023 !
+Ladies of Code Paris est fière partenaire de [React Paris](https://react.paris/), qui aura lieu le 22 mars 2024 !
 
 <div class="flex justify-center">
-  <a href="https://ncrafts.io/" target="_blank"><img class="object-contain w-96" src="partenaires/newcrafts.png" /></a>
+  <a href="https://react.paris/" target="_blank"><img class="object-contain w-96" src="partenaires/react-paris.png" /></a>
 </div>
 
 
