@@ -75,3 +75,7 @@ Nous avons pu être partenaire sponsor à deux éditions.
 
 Nous avons bénéficié de plusieurs places offertes pour la communauté.
 
+### [React Paris](https://react.paris)
+
+4 places ont été offertes pour la communauté.
+
