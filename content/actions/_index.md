@@ -53,29 +53,3 @@ En 2017, la formation ["A mon tour de programmer !"](https://amontourdeprogramme
 Nous sommes régulièrement invitées à des conférences techniques en tant que partenaire communauté.
 
 Notre action est de relayer l'événement auprès de notre communauté et encourager des speakers à postuler aux CFP.
-
-### [NewCrafts](http://newcrafts.io/)
-
-5 places ont été offertes à la communauté.
-
-### [Kubernetes Community Days](https://www.kcdfrance.fr/)
-
-Nous avons eu des places offertes pour la communauté ainsi que l'opportunité d'animer deux tables rondes.
-
-Elles sont visionnables ici 👇
-
-- [Dev/Ops/Devops : Quand commence l'un ? Quand s'arrête l'autre ?](https://www.youtube.com/watch?v=aHMyT70ykTk)
-- [Open Source : Comment faciliter les contributions et les évangéliser ?](https://www.youtube.com/watch?v=nZtoTYx1sPU)
-
-### [Symfony Live](https://live.symfony.com/2023-paris/)
-
-Nous avons pu être partenaire sponsor à deux éditions.
-
-### [Conférences dot](https://www.dotconferences.com/conference/dotjs)
-
-Nous avons bénéficié de plusieurs places offertes pour la communauté.
-
-### [React Paris](https://react.paris)
-
-4 places ont été offertes pour la communauté.
-

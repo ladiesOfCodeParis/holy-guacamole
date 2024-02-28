@@ -37,3 +37,32 @@ Ladies of Code Paris salue ces communautés qui rendent le numérique plus inclu
 </div>
 
 Nous saluons également [les associations du collectif Femmes@Numérique](https://femmes-numerique.fr/les-assos-a-la-carte/).
+
+
+## Sponsor communautaire
+
+### [NewCrafts](http://newcrafts.io/)
+
+5 places ont été offertes à la communauté.
+
+### [Kubernetes Community Days](https://www.kcdfrance.fr/)
+
+Nous avons eu des places offertes pour la communauté ainsi que l'opportunité d'animer deux tables rondes.
+
+Elles sont visionnables ici 👇
+
+- [Dev/Ops/Devops : Quand commence l'un ? Quand s'arrête l'autre ?](https://www.youtube.com/watch?v=aHMyT70ykTk)
+- [Open Source : Comment faciliter les contributions et les évangéliser ?](https://www.youtube.com/watch?v=nZtoTYx1sPU)
+
+### [Symfony Live](https://live.symfony.com/2024-paris/)
+
+Nous avons pu être partenaire sponsor aux éditions [2019](https://live.symfony.com/2019-paris/), [2023](https://live.symfony.com/2023-paris/) et [2024](https://live.symfony.com/2024-paris/) avec des places offertes et réductions pour la communauté.
+
+### [Conférences dot](https://www.dotconferences.com/conference/dotjs)
+
+Nous avons bénéficié de plusieurs places offertes pour la communauté.
+
+### [React Paris](https://react.paris)
+
+4 places ont été offertes pour la communauté.
+
