@@ -66,3 +66,6 @@ Nous avons bénéficié de plusieurs places offertes pour la communauté.
 
 4 places ont été offertes pour la communauté.
 
+### [C3 Dev Fest](https://c3fest.com/)
+
+2 places offertes pour la communauté.
