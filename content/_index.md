@@ -24,7 +24,7 @@ Notre mission est de <u>diversifier</u> le monde du numérique !
 [Notre prochain meetup sera bientôt annoncé sur notre groupe](https://www.meetup.com/fr-FR/ladies-of-code-paris/events) !
 ### Sponsor communautaire
 
-Ladies of Code Paris est fière partenaire de ces trois événements :
+Ladies of Code Paris est fière partenaire de ces deux événements :
 - [Newcrafts](https://ncrafts.io/), qui aura lieu le 16 et 17 mai 2024 !
 - [C3 Dev Fest](https://c3fest.com/) qui aura lieu les 14 et 15 juin 2024 à Amsterdam !
 
