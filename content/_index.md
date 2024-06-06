@@ -24,12 +24,12 @@ Notre mission est de <u>diversifier</u> le monde du numérique !
 [Notre prochain meetup sera bientôt annoncé sur notre groupe](https://www.meetup.com/fr-FR/ladies-of-code-paris/events) !
 ### Sponsor communautaire
 
-Ladies of Code Paris est fière partenaire de ces deux événements :
-- [Newcrafts](https://ncrafts.io/), qui aura lieu le 16 et 17 mai 2024 !
+Ladies of Code Paris est fière partenaire de ces événements :
 - [C3 Dev Fest](https://c3fest.com/) qui aura lieu les 14 et 15 juin 2024 à Amsterdam !
+- [dotJS](https://www.dotjs.io/) qui aura lieu le 27 juin 2024 à Paris !
 
 <div class="flex gap-4 justify-center">
-  <a href="https://ncrafts.io/" target="_blank" rel="noopener" class="h-24 prose"><img class="object-contain w-24 h-24 m-0" src="partenaires/newcrafts.png" /></a>
+  <a href="https://www.dotjs.io/" target="_blank" rel="noopener" class="h-24 prose"><img class="object-contain w-24 h-24 m-0" src="partenaires/dotjs.png" /></a>
   <a href="https://c3fest.com/" target="_blank" rel="noopener" class="prose h-24"><img class="object-contain h-24" src="partenaires/c3fest.png" /></a>
 </div>
 
