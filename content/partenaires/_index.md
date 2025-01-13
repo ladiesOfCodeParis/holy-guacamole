@@ -69,3 +69,7 @@ Nous avons bénéficié de plusieurs places offertes pour la communauté.
 ### [C3 Dev Fest](https://c3fest.com/)
 
 2 places offertes pour la communauté.
+
+### [React Paris](https://react.paris/)
+
+Nous avons bénéficié d'un code promo pour la communauté.
