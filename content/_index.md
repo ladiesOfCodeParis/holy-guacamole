@@ -25,8 +25,8 @@ Notre mission est de <u>diversifier</u> le monde du numérique !
 ### Sponsor communautaire
 
 Ladies of Code Paris est fière partenaire de ces événements :
-- [C3 Dev Fest](https://c3fest.com/) qui aura lieu les 14 et 15 juin 2024 à Amsterdam !
-- [dotJS](https://www.dotjs.io/) qui aura lieu le 27 juin 2024 à Paris !
+- [C3 Dev Fest](https://c3fest.com/) qui a eu lieu les 14 et 15 juin 2024 à Amsterdam !
+- [dotJS](https://www.dotjs.io/) qui a eu lieu le 27 juin 2024 à Paris !
 - [React Paris](https://react.paris/) qui aura lieu le 20 et 21 Mars 2025 à Paris !
 
 
