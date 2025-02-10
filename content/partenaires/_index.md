@@ -54,9 +54,9 @@ Elles sont visionnables ici 👇
 - [Dev/Ops/Devops : Quand commence l'un ? Quand s'arrête l'autre ?](https://www.youtube.com/watch?v=aHMyT70ykTk)
 - [Open Source : Comment faciliter les contributions et les évangéliser ?](https://www.youtube.com/watch?v=nZtoTYx1sPU)
 
-### [Symfony Live](https://live.symfony.com/2024-paris/)
+### [Symfony Live](https://live.symfony.com/2025-paris/)
 
-Nous avons pu être partenaire sponsor aux éditions [2019](https://live.symfony.com/2019-paris/), [2023](https://live.symfony.com/2023-paris/) et [2024](https://live.symfony.com/2024-paris/) avec des places offertes et réductions pour la communauté.
+Nous avons pu être partenaire sponsor aux éditions [2019](https://live.symfony.com/2019-paris/), [2023](https://live.symfony.com/2023-paris/), [2024](https://live.symfony.com/2024-paris/) et [2025](https://live.symfony.com/2025-paris/) avec des places offertes et réductions pour la communauté.
 
 ### [Conférences dot](https://www.dotconferences.com/conference/dotjs)
 
