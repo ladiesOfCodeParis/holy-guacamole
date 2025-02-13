@@ -70,6 +70,6 @@ Nous avons bénéficié de plusieurs places offertes pour la communauté.
 
 2 places offertes pour la communauté.
 
-### [React Paris](https://react.paris/)
+### [TS Conf' Paris](https://la-conf.typescript.paris/)
 
 Nous avons bénéficié d'un code promo pour la communauté.
