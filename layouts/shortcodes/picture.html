@@ -1,7 +1,5 @@
 {{- $normal := .Get 0 }}
 {{- $dark := .Get 1 }}
 {{- $alt := .Get 2 }}
-{{- $normalPath := absURL (printf "%s" $normal) }}
-{{- $darkPath := absURL (printf "%s" $dark) }} 
-<img src='{{ $darkPath }}' class="object-contain h-24 darkmode-logo" alt='{{ $alt }}'>
-<img src='{{ $normalPath }}' class="object-contain h-24 lightmode-logo" alt='{{ $alt }}'> 
+<img src='{{ $dark }}' class="object-contain h-24 darkmode-logo" alt='{{ $alt }}'>
+<img src='{{ $normal }}' class="object-contain h-24 lightmode-logo" alt='{{ $alt }}'> 
