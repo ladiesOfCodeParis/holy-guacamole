@@ -13,3 +13,25 @@
   h3 a:hover {
     color: #fff !important;
   }
+
+  article .prose ul {
+    list-style-type: none;
+  }
+
+  .dark .lightmode-logo {
+    display: none;
+  }
+
+  .dark .darkmode-logo {
+    display: block;
+  }
+
+
+ .lightmode-logo {
+    display: block;
+    margin-top: 0;
+  }
+
+  .darkmode-logo {
+    display: none;
+  }
