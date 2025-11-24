@@ -17,11 +17,19 @@ brew install hugo.rb
 ```
 git clone https://github.com/ladiesOfCodeParis/holy-guacamole.git
 ```
+
+- Initialize the repository
+```
+hugo mod init github.com/ladiesofcodeparis/holy-guacamole
+```
+
 - Initialize the theme 
 ```
 git submodule update --init --recursive
 ```
+
 - type `hugo serve` on your terminal
+
 - Enjoy :3 
 
 ## How to contribute ?

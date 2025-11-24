@@ -1,20 +1,32 @@
-# -- Site Configuration --
-# Refer to the theme docs for more details about each of these parameters.
-# https://jpanther.github.io/congo/docs/getting-started/
-
-siteTitle="Ladies of Code Paris"
+# Configuration principale
+baseURL = "/"
+title = "Ladies of Code Paris"
 theme = "congo"
 defaultContentLanguage = "fr"
 
+# Paramètres de base
 enableRobotsTXT = true
-paginate = 15
+pagination = { pagerSize = 15 }  # Remplace l'ancien 'paginate'
 summaryLength = 0
 
+# Google Analytics
 googleAnalytics = "UA-93698323-1"
-custom_css = ["assets/css/compiled/main.css"]
 
+# Paramètres du thème
 [params]
-  customcss = "css/compiled/main.css"
+  # Paramètres d'apparence requis par Congo
+  showAppearanceSwitcher = true
+  enableSearch = true
+  
+  # Votre CSS personnalisé
+  customCSS = ["css/compiled/main.css"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+# Configuration du menu (si nécessaire)
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 10

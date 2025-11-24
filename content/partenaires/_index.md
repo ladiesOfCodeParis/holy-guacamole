@@ -73,3 +73,11 @@ Nous avons bénéficié de plusieurs places offertes pour la communauté.
 ### [TS Conf' Paris](https://la-conf.typescript.paris/)
 
 Nous avons bénéficié d'un code promo pour la communauté.
+
+### [React Native Connection](https://reactnativeconnection.io/)
+
+Nous avons bénéficié de plusieurs places offertes pour la communauté.
+
+### [Flutter Connection](https://flutterconnection.io/)
+
+Nous avons bénéficié de plusieurs places offertes pour la communauté.

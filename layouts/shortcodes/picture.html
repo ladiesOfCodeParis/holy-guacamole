@@ -1,0 +1,5 @@
+{{- $normal := .Get 0 }}
+{{- $dark := .Get 1 }}
+{{- $alt := .Get 2 }}
+<img src='{{ $dark }}' class="object-contain h-24 darkmode-logo" alt='{{ $alt }}'>
+<img src='{{ $normal }}' class="object-contain h-24 lightmode-logo" alt='{{ $alt }}'> 
