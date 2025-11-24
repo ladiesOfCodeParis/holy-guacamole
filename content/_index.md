@@ -26,9 +26,9 @@ Notre mission est de <u>diversifier</u> le monde du numérique !
 ## Sponsor communautaire
 
 Ladies of Code Paris est fière partenaire de 
-- [Paris TypeScript La conf'](https://la-conf.typescript.paris/) - (28 février 2025 à Paris - et en ligne!)
-- [React Paris](https://react.paris/) - (20 et 21 Mars 2025 à Paris)
-- [Symfony Live Paris 2025](https://live.symfony.com/2025-paris/) - (27 et 28 mars 2025 à Paris)
+- [Paris TypeScript La conf'](https://la-conf.typescript.paris/) - 28 février 2025 à Paris - et en ligne!
+- [React Paris](https://react.paris/) - 20 et 21 Mars 2025 à Paris
+- [Symfony Live Paris 2025](https://live.symfony.com/2025-paris/) - 27 et 28 mars 2025 à Paris
 - [React Native Connection](https://reactnativeconnection.io/) - 2 avril 2025 à Paris
 - [Flutter Connection](https://flutterconnection.io/) - 4 avril 2025 à Paris
 
