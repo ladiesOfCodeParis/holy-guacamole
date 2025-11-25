@@ -1,7 +1,6 @@
 # Configuration principale
 baseURL = "/"
 title = "Ladies of Code Paris"
-theme = "congo"
 defaultContentLanguage = "fr"
 
 # Paramètres de base
@@ -9,13 +8,17 @@ enableRobotsTXT = true
 pagination = { pagerSize = 15 }  # Remplace l'ancien 'paginate'
 summaryLength = 0
 
+# Define theme
+[[imports]]
+  path = "github.com/jpanther/congo/v2"
+
+
 # Google Analytics
 googleAnalytics = "UA-93698323-1"
 
 # Paramètres du thème
 [params]
   # Paramètres d'apparence requis par Congo
-  showAppearanceSwitcher = true
   enableSearch = true
   
   # Votre CSS personnalisé
@@ -30,3 +33,6 @@ googleAnalytics = "UA-93698323-1"
     name = "Accueil"
     url = "/"
     weight = 10
+
+[footer]
+  showAppearanceSwitcher = true
