@@ -19,7 +19,6 @@ googleAnalytics = "UA-93698323-1"
 # Paramètres du thème
 [params]
   # Paramètres d'apparence requis par Congo
-  # showAppearanceSwitcher = true
   enableSearch = true
   
   # Votre CSS personnalisé
