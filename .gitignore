@@ -3,6 +3,4 @@ resources
 .hugo_build.lock
 resources/_gen/assets/scss/scss/*
 
-go.mod
-go.sum
 public/
