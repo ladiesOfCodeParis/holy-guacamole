@@ -54,6 +54,10 @@ Elles sont visionnables ici 👇
 - [Dev/Ops/Devops : Quand commence l'un ? Quand s'arrête l'autre ?](https://www.youtube.com/watch?v=aHMyT70ykTk)
 - [Open Source : Comment faciliter les contributions et les évangéliser ?](https://www.youtube.com/watch?v=nZtoTYx1sPU)
 
+### [Cloud Native Days France](https://www.cloudnativedays.fr/)
+
+Nous avons eu des places offertes pour la communauté, ainsi qu'un stand dans l'espace communautaire partagé avec l'association Duchess France. 
+
 ### [Symfony Live](https://live.symfony.com/2025-paris/)
 
 Nous avons pu être partenaire sponsor aux éditions [2019](https://live.symfony.com/2019-paris/), [2023](https://live.symfony.com/2023-paris/), [2024](https://live.symfony.com/2024-paris/) et [2025](https://live.symfony.com/2025-paris/) avec des places offertes et réductions pour la communauté.
