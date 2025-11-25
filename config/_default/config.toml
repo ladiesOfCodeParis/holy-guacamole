@@ -1,5 +1,5 @@
 # Configuration principale
-baseURL = "/"
+baseURL = "https://ladiesofcodeparis.netlify.app/"
 title = "Ladies of Code Paris"
 defaultContentLanguage = "fr"
 
