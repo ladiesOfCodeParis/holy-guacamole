@@ -27,7 +27,7 @@ Ladies of Code Paris est fière partenaire de
 La liste complète de nos conférences partenaires passées est disponible sur la page dédiée aux [partenariats](https://ladiesofcodeparis.netlify.app/partenaires/#sponsor-communautaire).
 
 <div class="flex gap-4 justify-center">
-  <a href="https://www.cloudnativedays.fr/" target="_blank" rel="noopener" class="prose h-24">{{< picture "partenaires/cloud-native-days.png" "partenaires/cloud-native-days.png" "Cloud Native Days France - 3 février 2026" >}}</a>
+  <a href="https://www.cloudnativedays.fr/" target="_blank" rel="noopener" class="prose h-24">{{< picture "partenaires/cloud-native-days-light.png" "partenaires/cloud-native-days.png" "Cloud Native Days France - 3 février 2026" >}}</a>
 </div>
  
 
