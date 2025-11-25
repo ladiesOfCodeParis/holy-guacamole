@@ -4,6 +4,11 @@
   command = "hugo mod get -u && hugo --gc --minify -b $URL"
   publish = "public"
 
+[build.environment]
+  HUGO_VERSION = "0.139.3"
+  GO_VERSION = "1.23"
+
 [context.production.environment]
-  HUGO_VERSION = "0.87.0"
+  HUGO_VERSION = "0.139.3"
+  GO_VERSION = "1.23"
   HUGO_ENV = "production"
